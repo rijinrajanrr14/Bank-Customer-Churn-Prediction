@@ -1,7 +1,10 @@
 # Bank-Customer-Churn-Prediction
 Bank customer churn prediction refers to the task of predicting whether a customer is likely to stop using the services of a bank, often referred to as "churning" or "attrition." Churn prediction is an important problem for banks as it helps them identify customers who are at risk of leaving and allows them to take proactive measures to retain those customers.
 
-## Dataset Description 
+
+
+## Dataset Description
+
 Customer ID: A unique identifier for each customer
 Surname: The customer's surname or last name
 Credit Score: A numerical value representing the customer's credit score
@@ -18,6 +21,7 @@ Exited: Whether the customer has churned (1 = yes, 0 = no)
 
 
 ## Models Used
+
 1. Logistic Regression
 2. Random Forest Classifier
 3. MLP Classifier
